@@ -1,0 +1,49 @@
+body {
+    background-color:#FDC;
+}
+header:hover{
+    background-color:#FDC;
+}
+h1 {
+    text-align:center;
+    font-size:64px;
+    margin: 16px;
+}
+
+ul {
+    background-color:#A97;
+    text-align:center;
+    font-weight:bold;
+}
+ul li{
+    width:25%;
+}
+ul li:hover{
+    background-color:#CA9
+}
+
+header {
+    font-size: 32px;
+    background-color:#CA9;
+    text-align:center;
+    width:80%;
+    margin:auto;
+}
+.UpdateHeaderBlock {
+    margin-left:40%;
+    width:50%;
+    margin-top:20px;
+}
+footer {
+    background-color:#000;
+    color:white;
+    padding:20px;
+    margin-top: 5%;
+}
+section
+{
+    width:60%;
+    margin:auto;
+    margin-top:50px;
+    text-align:center;
+}

@@ -1,0 +1,8 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "cmath": "c",
+        "getopt.h": "c",
+        "stdbool.h": "c"
+    }
+}
