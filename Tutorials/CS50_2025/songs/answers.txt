@@ -1,0 +1,6 @@
+The audio aura can be considered as a three-dimensional value: energy, valence, danceability.
+
+However, the average approach can be wrong if the user listens to various auras of music that have opposite energy, valence and danceability;
+indeed the average will "erase" this high variability.
+
+Another approach would be to predifine threshold values to detrermine the aura of a song. Then count for each aura type the number of songs from the user' top 100 list.

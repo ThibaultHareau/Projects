@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Performs way better on ordered than reversed and random. By design, bubble finishes quickly when the list is already sorted.
+
+sort2 uses: Merge Sort
+
+How do you know?: Performs very well on the *.50000 files compares to the 2 others. No specifc differences between sorted, reversed and random (the process is the same in any case)
+
+sort3 uses: Selection Sort
+
+How do you know?: Performs equally in reversed, ordered and random. Way more difficult when the size of the file is bigger (compares to merge sort).
